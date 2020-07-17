@@ -9,7 +9,7 @@ I started contributing in open source from march 2020 as GSSOC participant and n
 I love to work on challenging projects and planning to start some of my awesome work from my 4 year degree as open source projects.
 
 
-## B.tech in a nutshell 
+## Graduation in a nutshell 
 
 ### GSSOC participant | SCI mentor | CWOC Organizer | Winner Dreambig championship | First runner-up Automathon | Top 25 TCS enginx
 
