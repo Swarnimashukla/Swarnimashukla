@@ -18,9 +18,9 @@ GSSOC participant | SCI mentor | CWOC Organizer | Winner Dreambig championship |
 
 web developer | open source contributor | ux/ui designer | Beta MSP | Co-founder CWOC
 
-## Do join me in this journey to work on latest tech with challenging tasks
+Do join me in this journey to work on latest tech with challenging tasks
 
-# Consider leaving a ⭐ on repos you like.
+### Consider leaving a ⭐ on repos you like.
 
 ## Connect with me on :
 
