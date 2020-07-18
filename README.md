@@ -24,4 +24,4 @@ Do join me in this journey to work on latest tech with challenging tasks
 
 ## Connect with me on :
 
-[Linkedin](https://www.linkedin.com/in/swarnima-shukla-3815b5b8/) | [Twitter](https://twitter.com/swarnimashukla5) | [Behance](https://www.behance.net/Swarnima_Shukla) |[Instagram](https://www.instagram.com/swarnimashukla_/)
+[Linkedin](https://www.linkedin.com/in/swarnima-shukla-3815b5b8/) | [Twitter](https://twitter.com/swarnimashukla5) | [Behance](https://www.behance.net/Swarnima_Shukla) |    [Instagram](https://www.instagram.com/swarnimashukla_/)
