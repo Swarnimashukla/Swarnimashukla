@@ -11,7 +11,7 @@ I love to work on challenging projects and planning to start some of my awesome 
 
 ## Graduation in a nutshell 
 
-Winner Dreambig championship | First runner-up Automathon | First runner-up Swiggy Genie challenge | Top 25 among 17000 teams in TCS enginx | GSSOC participant | SCI mentor | CWOC Organizer 
+Winner Dreambig championship | Winner UXhack Google challenge |  First runner-up Automathon | First runner-up Swiggy Genie challenge | Top 25 among 17000 teams in TCS enginx | Among Top 30 out of 2500 + GSSOC participants | SCI mentor | Hakincodes mentor | CWOC Organizer 
 
 
 ## Current position
