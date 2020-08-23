@@ -16,7 +16,7 @@ Winner Dreambig championship | Winner UXhack Google challenge |  First runner-up
 
 ## Current position
 
-web developer | open source contributor | ux/ui designer | Beta MSP | Co-founder CWOC
+web developer | open source contributor | UX/UI designer | Beta MSP | Co-founder CWOC
 
 Do join me in this journey to work on latest tech with challenging tasks
 
