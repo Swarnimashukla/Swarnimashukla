@@ -8,6 +8,8 @@
 I started contributing in open source from march 2020 as GSSOC participant and now addicted to green dots and valuable contributions on github.
 I love to work on challenging projects and planning to start some of my awesome work from my 4 year degree as open source projects.
 
+[![Swarnima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swarnimashukla&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/Swarnimashukla/github-readme-stats)
+
 
 ## Graduation in a nutshell 
 
