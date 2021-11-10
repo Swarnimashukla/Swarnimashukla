@@ -4,8 +4,10 @@
 I started contributing in open source from march 2020 as GSSOC participant and now addicted to green dots and valuable contributions on github.
 I love to work on challenging projects and planning to start some of the awesome work from my experience as open source projects.
 
-[![Swarnima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swarnimashukla&hide=issues&count_private=true&show_icons=true&theme=yeblu)](https://github.com/Swarnimashukla/github-readme-stats)
-
+  <a href="https://github.com/Swarnimashukla">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Swarnimashukla&custom_title=GitHub%20Stats&show_icons=true&theme=yeblu&count_private=true&include_all_commits=true&hide_border=true" />
+  </a>
+  
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
