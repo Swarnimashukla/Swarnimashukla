@@ -17,8 +17,8 @@ Do join me in this journey to work on latest tech with challenging tasks
 
 [![GitHub Swarnimashukla](https://img.shields.io/github/followers/Swarnimashukla?label=follow&style=social)](https://github.com/Swarnimashukla)
 [![Linkedin: Swarnima Shukla](https://img.shields.io/badge/-Swarnima%20Shukla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swarnima-shukla-3815b5b8/)](https://www.linkedin.com/in/swarnima-shukla-3815b5b8/)
-[![Twitter: Swarnima Shukla](https://img.shields.io/twitter/follow/Swarnimashukla_?style=social)](https://twitter.com/swarnimashukla5)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Swarnimashukla&left_color=gray&right_color=blue)
+[![Twitter: Swarnima Shukla](https://img.shields.io/twitter/follow/swarnimashukla5_?style=social)](https://twitter.com/swarnimashukla5)
+
 
 ### Consider leaving a ⭐ on repos you like
 
