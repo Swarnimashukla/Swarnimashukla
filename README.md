@@ -18,7 +18,7 @@ Winner Dreambig championship | Winner UXhack Google challenge |  First runner-up
 
 ### Feel free to connect 
 
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightblue.svg?style=flat&logo=github)(https://github.com/Swarnimashukla/Automatic-attendance-management-system/issues)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightblue.svg?style=flat&logo=github)](https://github.com/Swarnimashukla/Automatic-attendance-management-system/issues)
 [![GitHub Swarnimashukla](https://img.shields.io/github/followers/Swarnimashukla?label=follow&style=social)](https://github.com/Swarnimashukla)
 [![Linkedin: Swarnima Shukla](https://img.shields.io/badge/-Swarnima%20Shukla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swarnima-shukla-3815b5b8/)](https://www.linkedin.com/in/swarnima-shukla-3815b5b8/)
 [![Twitter: Swarnima Shukla](https://img.shields.io/twitter/follow/swarnimashukla5?style=social)](https://twitter.com/swarnimashukla5)
