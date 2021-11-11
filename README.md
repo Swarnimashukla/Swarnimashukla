@@ -4,15 +4,17 @@
 I started contributing in open source from march 2020 as GSSOC participant and now addicted to green dots and valuable contributions on github.
 I love to work on challenging projects and planning to start some of the awesome work from my experience as open source projects.
 
-  <a href="https://github.com/Swarnimashukla">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Swarnimashukla&custom_title=GitHub%20Stats&show_icons=true&theme=yeblu&count_private=true&include_all_commits=true&hide_border=true" />
-  </a>
-  
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
 | [**RollCall**](https://github.com/Swarnimashukla/Automatic-attendance-management-system) | [![GitHub issues](https://img.shields.io/github/issues/Swarnimashukla/Automatic-attendance-management-system?color=green&logo=github&style=flat)](https://github.com/Swarnimashukla/Automatic-attendance-management-system/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Swarnimashukla/Automatic-attendance-management-system?style=flat&logo=github)](https://github.com/Swarnimashukla/Automatic-attendance-management-system/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Swarnimashukla/Automatic-attendance-management-system?style=flat&color=critical&logo=github)](https://github.com/Swarnimashukla/Automatic-attendance-management-system/pulls?q=is%3Apr+is%3Aclosed)  |
 
+ <a href="https://github.com/Swarnimashukla">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Swarnimashukla&custom_title=GitHub%20Stats&show_icons=true&theme=yeblu&count_private=true&include_all_commits=true&hide_border=true" />
+  </a>
+  
+  <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarnimashukla&count_private=true&theme=radical&layout=compact" alt="Swarnimashukla" />
+  
 
 ## Achievements in nutshell 
 
