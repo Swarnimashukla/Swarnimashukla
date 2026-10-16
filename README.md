@@ -37,7 +37,7 @@ Winner Dreambig championship | Winner UXhack Google challenge |  First runner-up
 
 I design for **trust** the moments where people decide whether to hand over their money, their data or their decisions to a product, or to an AI. These days I also build full apps myself with AI tools, from idea to live product.
 
-My GitHub story started in March 2020 as a GSSoC participant. I got addicted to green dots then, and I'm back at it now — this time shipping my own products.
+My GitHub story started in March 2020 as a GSSoC participant. I got addicted to green dots then, and I'm back at it now this time shipping my own products.
 
 🌐 Portfolio: [swarnimashukla.work](https://www.swarnimashukla.work) · 📍 Bangalore, India
 
@@ -48,12 +48,6 @@ My GitHub story started in March 2020 as a GSSoC participant. I got addicted to 
 | [**Swapp**](https://github.com/Swarnimashukla/Swapp) | Outfit-lending app for closed communities like college campuses and housing societies. AI does the background work, humans make every final call. 60+ users. Next.js + Supabase + Vercel |
 | [**PromptArcade**](https://promptarcade.netlify.app) | Free tool that teaches students prompt engineering through 36 real-life scenarios ([repo](https://github.com/Swarnimashukla/Prompt-Arcade)) |
 
-## 🌱 Where it started: open source
-
-|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
-|-------------|-------------------|---|---|
-| [**RollCall**](https://github.com/Swarnimashukla/Automatic-attendance-management-system) | [![GitHub issues](https://img.shields.io/github/issues/Swarnimashukla/Automatic-attendance-management-system?color=green&logo=github&style=flat)](https://github.com/Swarnimashukla/Automatic-attendance-management-system/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Swarnimashukla/Automatic-attendance-management-system?style=flat&logo=github)](https://github.com/Swarnimashukla/Automatic-attendance-management-system/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Swarnimashukla/Automatic-attendance-management-system?style=flat&color=critical&logo=github)](https://github.com/Swarnimashukla/Automatic-attendance-management-system/pulls?q=is%3Apr+is%3Aclosed)  |
-
 <p>
   <a href="https://github.com/Swarnimashukla">
     <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Swarnimashukla&custom_title=GitHub%20Stats&show_icons=true&theme=yeblu&count_private=true&include_all_commits=true&hide_border=true&hide=contribs&hide_rank=true&cache_seconds=86400" />
@@ -62,6 +56,12 @@ My GitHub story started in March 2020 as a GSSoC participant. I got addicted to 
     <img height="180" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarnimashukla&theme=radical&layout=compact&hide_border=true&cache_seconds=86400" />
   </a>
 </p>
+
+## 🌱 Where it started: open source
+
+|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
+|-------------|-------------------|---|---|
+| [**RollCall**](https://github.com/Swarnimashukla/Automatic-attendance-management-system) | [![GitHub issues](https://img.shields.io/github/issues/Swarnimashukla/Automatic-attendance-management-system?color=green&logo=github&style=flat)](https://github.com/Swarnimashukla/Automatic-attendance-management-system/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Swarnimashukla/Automatic-attendance-management-system?style=flat&logo=github)](https://github.com/Swarnimashukla/Automatic-attendance-management-system/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Swarnimashukla/Automatic-attendance-management-system?style=flat&color=critical&logo=github)](https://github.com/Swarnimashukla/Automatic-attendance-management-system/pulls?q=is%3Apr+is%3Aclosed)  |
 
 ## 🏆 Achievements in a nutshell
 
