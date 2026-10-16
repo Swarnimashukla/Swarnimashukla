@@ -45,7 +45,7 @@ My GitHub story started in March 2020 as a GSSoC participant. I got addicted to 
 
 | Project | What it is |
 |---|---|
-| [**Swapp**] | Outfit-lending app for closed communities like college campuses and housing societies. AI does the background work, humans make every final call. 60+ users. Next.js + Supabase + Vercel |
+| **Swapp** | Outfit-lending app for closed communities like college campuses and housing societies. AI does the background work, humans make every final call. 60+ users. Next.js + Supabase + Vercel |
 | [**PromptArcade**](https://promptarcade.netlify.app) | Free tool that teaches students prompt engineering through 36 real-life scenarios ([repo](https://github.com/Swarnimashukla/Prompt-Arcade)) |
 
 <p>
